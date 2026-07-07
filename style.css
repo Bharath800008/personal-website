@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    margin:40px;
+    background:#f4f4f4;
+}
+
+h1{
+    color:darkblue;
+}
+
+nav{
+    background:navy;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-right:15px;
+}
+
+table{
+    border-collapse:collapse;
+}
+
+th,td{
+    padding:10px;
+}
+
+img{
+    border-radius:50%;
+}
